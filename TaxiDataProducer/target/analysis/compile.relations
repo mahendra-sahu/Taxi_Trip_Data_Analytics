@@ -1,0 +1,10 @@
+products:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataProducer\src\main\java\com\sahu\datastream\TripRecordProducer.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataProducer\target\classes\com\sahu\datastream\TripRecordProducer.class
+binary dependencies:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataProducer\src\main\java\com\sahu\datastream\TripRecordProducer.java -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataProducer\src\main\java\com\sahu\datastream\TripRecordProducer.java -> C:\Users\Mahendra\.m2\repository\org\apache\kafka\kafka-clients\0.8.2.1\kafka-clients-0.8.2.1.jar
+source dependencies:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataProducer\src\main\java\com\sahu\datastream\TripRecordProducer.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataProducer\src\main\java\com\sahu\datastream\TripRecordProducer.java
+external dependencies:
+class names:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataProducer\src\main\java\com\sahu\datastream\TripRecordProducer.java -> com.sahu.datastream.TripRecordProducer
