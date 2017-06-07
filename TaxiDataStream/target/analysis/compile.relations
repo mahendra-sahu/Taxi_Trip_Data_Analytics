@@ -1,0 +1,64 @@
+products:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDataSlidingWindow$1.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDataSlidingWindow$2.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDataSlidingWindow$3.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDataSlidingWindow$4.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDataSlidingWindow$5.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDataSlidingWindow.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDStreamDataFrame$1.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDStreamDataFrame$2$1.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDStreamDataFrame$2.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TaxiDStreamDataFrame.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TripRecord.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\javadatastream\TripRecord.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\datastream\DirectDataStream$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\datastream\DirectDataStream$$anonfun$main$1$$anonfun$apply$1.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\datastream\DirectDataStream$$anonfun$main$1.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\datastream\DirectDataStream$.class
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\target\classes\com\sahu\datastream\DirectDataStream.class
+binary dependencies:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\Users\Mahendra\.m2\repository\com\sahu\geo\GeoUtil\1.0\GeoUtil-1.0.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\Users\Mahendra\.m2\repository\org\apache\kafka\kafka_2.11\0.8.2.1\kafka_2.11-0.8.2.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-core_2.11\2.1.1\spark-core_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.1.1\spark-streaming-kafka-0-8_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-streaming_2.11\2.1.1\spark-streaming_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\Users\Mahendra\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Users\Mahendra\.m2\repository\com\sahu\geo\GeoUtil\1.0\GeoUtil-1.0.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Users\Mahendra\.m2\repository\org\apache\kafka\kafka_2.11\0.8.2.1\kafka_2.11-0.8.2.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-core_2.11\2.1.1\spark-core_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-sql_2.11\2.1.1\spark-sql_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.1.1\spark-streaming-kafka-0-8_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-streaming_2.11\2.1.1\spark-streaming_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\Users\Mahendra\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TripRecord.java -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\Users\Mahendra\.m2\repository\org\apache\kafka\kafka_2.11\0.8.2.1\kafka_2.11-0.8.2.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-core_2.11\2.1.1\spark-core_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.1.1\spark-streaming-kafka-0-8_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\Users\Mahendra\.m2\repository\org\apache\spark\spark-streaming_2.11\2.1.1\spark-streaming_2.11-2.1.1.jar
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> C:\Users\Mahendra\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+source dependencies:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TripRecord.java
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TripRecord.java
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TripRecord.java -> C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TripRecord.java
+external dependencies:
+class names:
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> com.sahu.javadatastream.TaxiDataSlidingWindow
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> com.sahu.javadatastream.TaxiDataSlidingWindow$1
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> com.sahu.javadatastream.TaxiDataSlidingWindow$2
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> com.sahu.javadatastream.TaxiDataSlidingWindow$3
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> com.sahu.javadatastream.TaxiDataSlidingWindow$4
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDataSlidingWindow.java -> com.sahu.javadatastream.TaxiDataSlidingWindow$5
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> com.sahu.javadatastream.TaxiDStreamDataFrame
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> com.sahu.javadatastream.TaxiDStreamDataFrame$1
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> com.sahu.javadatastream.TaxiDStreamDataFrame$2
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TaxiDStreamDataFrame.java -> com.sahu.javadatastream.TaxiDStreamDataFrame$2$1
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\java\com\sahu\javadatastream\TripRecord.java -> com.sahu.javadatastream.TripRecord
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> com.sahu.datastream.DirectDataStream
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> com.sahu.datastream.DirectDataStream$
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> com.sahu.datastream.DirectDataStream$$anonfun$main$1
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> com.sahu.datastream.DirectDataStream$$anonfun$main$1$$anonfun$apply$1
+   C:\HardDisk\Teradata\DBS\Code\TaxiDataStream\src\main\scala\com\sahu\datastream\DirectDataStream.scala -> com.sahu.datastream.DirectDataStream$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2
